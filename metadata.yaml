@@ -1,0 +1,27 @@
+_repo: The-Sky-Pilot-in-No-Man-s-Land_3288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connor, Ralph
+    alias: Gordon, Charles William
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '1142'
+    url: http://www.gutenberg.org/2009/agents/1142
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Connor
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Sky Pilot in No Man's Land
+url: http://www.gutenberg.org/ebooks/3288
